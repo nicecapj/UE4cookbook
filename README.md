@@ -7,3 +7,6 @@
 샘플 프로젝트들은 새 프로젝트를 만드실때, 삼인칭을 설정하신후에, 코드를 복사하셔야 합니다.
 (용량 문제로 github에 올리지는 못합니다)
 Chapter04_07은 특히, 이런 컨텐츠들을 사용합니다.
+
+원서의 샘플코드 링크
+https://github.com/PacktPublishing/Unreal-Engine-4-Scripting-with-CPlusPlus-Cookbook
